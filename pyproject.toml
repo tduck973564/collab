@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "collab"
+version = "0.1.0"
+description = "A crappy todo app I made with KineticTactic to test Live Share"
+authors = ["tduck973564 <tduck973564@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
