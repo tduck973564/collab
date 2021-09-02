@@ -2,7 +2,6 @@
 
 import sqlite3
 
-# this is vulnerable to injects but like i care
 class Database:
     def __init__(self, path: str):
         self.db = sqlite3.connect(path)
