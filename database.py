@@ -1,3 +1,5 @@
+# My stuff
+
 import sqlite3
 
 # this is vulnerable to injects but like i care

@@ -1,3 +1,5 @@
+# Kinetic's stuff
+
 from database import Database
 
 def parse(cmdstr: str, db: Database):
